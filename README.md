@@ -12,6 +12,13 @@ Timeclock.kiwi is an app for simple employee clocking in and out and time manage
 
 **To find out more, please check out the [timeclock.kiwi][website] website.**
 
+## Code Samples
+
+We provide code samples for API integration. 
+
+## Issues
+
+Please use the issue tracker to log any bugs or feature requests you have. 
 
 [website]: https://timeclock.kiwi
 [logo-image]: https://timeclock.kiwi/public/images/logo.svg
