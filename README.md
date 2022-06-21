@@ -20,5 +20,9 @@ We provide code samples for API integration.
 
 Please use the issue tracker to log any bugs or feature requests you have. 
 
+## Contact Support
+
+If you can't find a resolution to your issue on this page you can contact support at [support@timeclock.kiwi](mailto:support@timeclock.kiwi). 
+
 [website]: https://timeclock.kiwi
 [logo-image]: https://timeclock.kiwi/public/images/logo.svg
